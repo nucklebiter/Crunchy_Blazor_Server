@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32516.85
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrunchyWeb_Server", "CrunchyWeb_Server\CrunchyWeb_Server.csproj", "{8C4A93F8-5F7A-4427-A3A3-E8BAAF248D49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrunchyWeb_Server", "CrunchyWeb_Server\CrunchyWeb_Server.csproj", "{8C4A93F8-5F7A-4427-A3A3-E8BAAF248D49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrunchyWeb_Client", "CrunchyWeb_Client\CrunchyWeb_Client.csproj", "{D413401E-2E2E-4D4E-B56E-F0DF8F3236EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{8C4A93F8-5F7A-4427-A3A3-E8BAAF248D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C4A93F8-5F7A-4427-A3A3-E8BAAF248D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C4A93F8-5F7A-4427-A3A3-E8BAAF248D49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D413401E-2E2E-4D4E-B56E-F0DF8F3236EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D413401E-2E2E-4D4E-B56E-F0DF8F3236EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D413401E-2E2E-4D4E-B56E-F0DF8F3236EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D413401E-2E2E-4D4E-B56E-F0DF8F3236EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
